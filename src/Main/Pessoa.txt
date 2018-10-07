@@ -1,0 +1,4 @@
+int;id 
+String;nomePessoa
+String;nomeMae
+String;CPF
